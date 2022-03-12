@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/reduce",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/why-i-dont-like-reduce","title":"Why I don't like reduce","date":"09.09.2020","excerpt":"The popular  eslint-plugin-unicorn  recently added a\n no-reduce  rule, and it is set to  error  per default.\nThe argument is that Array…","timeToRead":3,"description":"If you know me, you know I'm no fan of Array.reduce. I'll explain why in detail in this post.","tags":[{"name":"JavaScript","slug":"java-script"},{"name":"TypeScript","slug":"type-script"},{"name":"Array","slug":"array"},{"name":"reduce","slug":"reduce"}]}]}},"pageContext":{"slug":"reduce","name":"reduce","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

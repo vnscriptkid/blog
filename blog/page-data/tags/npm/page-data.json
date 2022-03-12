@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/npm",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/solving-conflicts-in-package-lock-json","title":"Solving conflicts in package-lock.json","date":"02.09.2020","excerpt":"I wish I wouldn't spend as much time solving git conflicts as I currently am. It's cumbersome. It's error-prone. It is just not fun. One…","timeToRead":3,"description":"Why you should never delete package-lock.json and how npm can solve the conflicts for you","tags":[{"name":"npm","slug":"npm"},{"name":"package-lock.json","slug":"package-lock-json"}]}]}},"pageContext":{"slug":"npm","name":"npm","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

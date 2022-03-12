@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/use-memo",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/use-state-for-one-time-initializations","title":"useState for one-time initializations","date":"12.03.2021","excerpt":"#1: Don't over useState #2: Putting props to useState #3: Things to know about useState #5: useState vs. useReducer When we talk about…","timeToRead":2,"description":"Why you shouldn't rely on useMemo for guaranteed referential stability but prefer useState instead","tags":[{"name":"React","slug":"react"},{"name":"useState pitfalls","slug":"use-state-pitfalls"},{"name":"useMemo","slug":"use-memo"}]}]}},"pageContext":{"slug":"use-memo","name":"useMemo","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

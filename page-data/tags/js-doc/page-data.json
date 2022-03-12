@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/js-doc",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/calling-java-script-from-type-script","title":"Calling JavaScript from TypeScript","date":"04.09.2020","excerpt":"There is nothing better than starting a new project, on a green field.\nYou can choose all the latest tech you want, and you can begin with…","timeToRead":3,"description":"Gradually migrating from JS to TS is not without difficulties - here are some tricks to smoothen the interoperability","tags":[{"name":"TypeScript","slug":"type-script"},{"name":"JavaScript","slug":"java-script"},{"name":"JsDoc","slug":"js-doc"}]}]}},"pageContext":{"slug":"js-doc","name":"JsDoc","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

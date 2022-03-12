@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/use-state",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/use-state-vs-use-reducer","title":"useState vs useReducer","date":"26.09.2021","excerpt":"#1: Don't over useState #2: Putting props to useState #3: Things to know about useState #4: useState for one-time initializations The…","timeToRead":4,"description":"To useState or useReducer, that is the question...","tags":[{"name":"React","slug":"react"},{"name":"useState pitfalls","slug":"use-state-pitfalls"},{"name":"useState","slug":"use-state"},{"name":"useReducer","slug":"use-reducer"}]}]}},"pageContext":{"slug":"use-state","name":"useState","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

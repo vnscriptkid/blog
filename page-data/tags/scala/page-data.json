@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/scala",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/exhaustive-matching-in-type-script","title":"Exhaustive matching in TypeScript","date":"09.08.2020","excerpt":"It is already well known in the frontend development community that adopting TypeScript is a good idea for (almost) every project that…","timeToRead":5,"description":null,"tags":[{"name":"Scala","slug":"scala"},{"name":"TypeScript","slug":"type-script"},{"name":"React","slug":"react"}]}]}},"pageContext":{"slug":"scala","name":"Scala","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

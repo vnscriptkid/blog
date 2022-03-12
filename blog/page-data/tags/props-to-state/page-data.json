@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/props-to-state",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/putting-props-to-use-state","title":"Putting props to useState","date":"25.10.2020","excerpt":"#1: Don't over useState #3: Things to know about useState #4: useState for one-time initializations #5: useState vs. useReducer In the…","timeToRead":5,"description":"Part deux of the useState pitfalls series is here, showing patterns to help solve the common use-case of initializing state with a prop.","tags":[{"name":"React","slug":"react"},{"name":"useState pitfalls","slug":"use-state-pitfalls"},{"name":"props-to-state","slug":"props-to-state"}]}]}},"pageContext":{"slug":"props-to-state","name":"props-to-state","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

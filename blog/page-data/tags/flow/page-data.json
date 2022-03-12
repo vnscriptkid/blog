@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/flow",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/flow-to-type-script-migration-journey","title":"Flow to TypeScript migration journey","date":"04.01.2021","excerpt":"It's the end of 2020, and it's hard to imagine frontend development without static types. It is very convenient to start a project without…","timeToRead":6,"description":"How we migrated over 100k lines of code from Flow to TypeScript. A Journey.","tags":[{"name":"JavaScript","slug":"java-script"},{"name":"TypeScript","slug":"type-script"},{"name":"Flow","slug":"flow"},{"name":"ReactJs","slug":"react-js"}]}]}},"pageContext":{"slug":"flow","name":"Flow","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

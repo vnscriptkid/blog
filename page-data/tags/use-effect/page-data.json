@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/use-effect",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/simplifying-use-effect","title":"Simplifying useEffect","date":"23.01.2021","excerpt":"useEffect . The hook everybody needs, but nobody wants. According to the official react docs, it's \" an escape hatch from React’s purely…","timeToRead":4,"description":"useEffect hooks can be hard to reason about, but I have 5 principles that can help to manage them","tags":[{"name":"React","slug":"react"},{"name":"useEffect","slug":"use-effect"},{"name":"JavaScript","slug":"java-script"},{"name":"TypeScript","slug":"type-script"}]}]}},"pageContext":{"slug":"use-effect","name":"useEffect","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

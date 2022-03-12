@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/documentation",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/avoiding-legacy-systems","title":"Avoiding legacy systems","date":"01.11.2020","excerpt":"No one likes working with legacy systems.\nThey are hard to maintain.\nThey are not fun to work with.\nEvery bug report you get, you feel like…","timeToRead":9,"description":"Every software will eventually become a nightmare to maintain, unless we actively do something about it.","tags":[{"name":"principles","slug":"principles"},{"name":"documentation","slug":"documentation"}]}]}},"pageContext":{"slug":"documentation","name":"documentation","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

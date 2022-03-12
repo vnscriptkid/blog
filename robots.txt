@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://tkdodo.eu/blog/sitemap.xml
